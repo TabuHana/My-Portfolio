@@ -1,0 +1,14 @@
+body {
+  background-image: url(./images/peakpx.jpg);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.text-color{
+  color:white;
+}

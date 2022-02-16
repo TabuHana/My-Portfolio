@@ -1,0 +1,23 @@
+body{
+  background-image: url(./images/peakpx.jpg);
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+
+.text-color{
+  color:white;
+}
+
+.img-thumbnail {
+  padding:0;
+  background-color:transparent;
+  border: 0px;
+  height: 150px;
+}
