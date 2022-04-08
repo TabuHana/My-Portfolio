@@ -1,3 +1,7 @@
+* {
+  font-family: sans-serif;
+}
+
 body{
   background-image: url(./images/peakpx.jpg);
 }
@@ -9,4 +13,10 @@ body{
 
 .text-color{
   color:white;
+}
+
+.middle {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
 }
